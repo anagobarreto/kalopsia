@@ -1,0 +1,21 @@
+body {
+  background-color: #4e4187;
+  color: #f8ffe5;
+}
+
+header {
+  font-size: 22px;
+  float: left;
+}
+
+header ul li {
+  list-style: none;
+  display: inline-block;
+  font-weight: bolder;
+  font-size: 19px;
+}
+
+header ul li a {
+  text-decoration: none;
+  color: #2ebfa5;
+}
